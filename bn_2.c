@@ -1,4 +1,4 @@
-/* bn_sample.c */
+/* bn_2.c */
 #include <stdio.h>
 #include <openssl/bn.h>
 #define NBITS 256
